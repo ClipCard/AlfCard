@@ -6,7 +6,7 @@ You'll need to be [a ClipCard user](http://www.clipcard.com) as well as an Alfre
 
 ## Getting Started
 
-1. Download AlfCard from GitHub or Packal
+1. Download AlfCard from GitHub
 2. Install AlfCard by opening the downloaded Alfred Workflow file
 3. Open Alfred and type `clipcard`. Hit enter to open ClipCard or type a search after `clipcard` to quickly search across all your stuff!
 
